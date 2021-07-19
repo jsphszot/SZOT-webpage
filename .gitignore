@@ -1,0 +1,6 @@
+.htaccess
+carta2.json
+index*
+!index.html
+ex-*
+*Zone.Ident*
