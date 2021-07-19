@@ -1,1 +1,1 @@
-# Cerveceriá SZOT webpage - www.szot.cl
+## Cerveceriá SZOT webpage - www.szot.cl
